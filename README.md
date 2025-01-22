@@ -1,9 +1,13 @@
-# independent-study-spring-2025
-## The environments folder has the environments:
-### tabenv1 is the environments used
+# Independent Study - Spring 2025
 
-## The Agent and the Runner are defined in:
-### algorithms/modelFree/agents/ folder
+## Folder Structure
 
+### **Environments**
+- The `environments/` folder contains all environment definitions.
+- **`tabenv1`**: The environment used for the project.
 
-
+### **Agent and Runner**
+- Located in the `algorithms/modelFree/agents/` folder.
+- Includes implementations for:
+  - **Agent**: Handles decision-making and learning.
+  - **Runner**: Manages training and evaluation loops.
