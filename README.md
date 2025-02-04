@@ -11,3 +11,8 @@
 - Includes implementations for:
   - **Agent**: Handles decision-making and learning.
   - **Runner**: Manages training and evaluation loops.
+### **Run Instructions**
+- git clone into local system
+- pip install -r requirements.txt
+- python main.py
+
