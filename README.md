@@ -1,4 +1,4 @@
-# Independent Study - Spring 2025
+# Robotic Path planning
 
 ## Folder Structure
 
